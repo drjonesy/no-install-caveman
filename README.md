@@ -1,3 +1,5 @@
+![No Install Caveman Socail Card](github-social-no-install-caveman.png)
+
 # 🗿 No Install Caveman Mode
 
 A lightweight, plugin-free approach to reducing Claude Code output tokens by ~75% using simple markdown skill files.
