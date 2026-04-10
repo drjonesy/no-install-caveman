@@ -1,4 +1,4 @@
-# 🗿 Caveman Mode for Claude Code (No Install Needed)
+# 🗿 No Install Caveman Mode
 
 A lightweight, plugin-free approach to reducing Claude Code output tokens by ~75% using simple markdown skill files.
 
