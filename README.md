@@ -1,6 +1,8 @@
-# Caveman Mode for Claude Code (No Install Needed)
+# 🗿 Caveman Mode for Claude Code (No Install Needed)
 
 A lightweight, plugin-free approach to reducing Claude Code output tokens by ~75% using simple markdown skill files.
+
+> Adapted from: https://github.com/JuliusBrussee/caveman. I didn't want to install anything and so I did the obvious thought... asked claude to remake the repo in simple skills. This isn't as amazing as original but it works.
 
 ## What's Included
 
